@@ -78,8 +78,8 @@ public class Solution {
       }
       return summation;
       }
-
-
+```
+```
   //    for (int i = 0; i < len - L - K + 1; i++) {
   //       index = i;
   //       int sumAlice = 0;
